@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-This project demonstrates basic data analysis using Python and pandas.
+As my first data analysis project, I focused on loading, cleaning, exploring and visualizing a retail sales dataset.
 
 ## Tech
-- Python
-- pandas
-- matplotlib
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ## Tasks Completed
 - Loaded the dataset
