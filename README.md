@@ -1,6 +1,6 @@
 # Retail Sales Assignment
 
-## Project Overview
+##  Summary
 
 As my first data analysis project, I focused on loading, cleaning, exploring and visualizing a retail sales dataset.
 
