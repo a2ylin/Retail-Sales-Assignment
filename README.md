@@ -20,9 +20,6 @@ As my first data analysis project, I focused on loading, cleaning, exploring and
 - Created a bar chart of the top 5 countries by order count
 - Exported the cleaned dataset as a new CSV file
 
-### Top 5 Countries by Order Count
-![Top 5 Countries](top_5_countries.png)
-
 ## Files
 - `analysis.py` – Python script
 - `sales_data_sample.csv` – Original dataset
